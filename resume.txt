@@ -1,0 +1,19 @@
+name arshia yazdanparast
+
+language persian-english
+
+education bachlor mazandaran university
+
+skills write 10 skills including mind and intrest
+
+phoneNumber  09374301779
+email arshiayp82@gmail.com
+instagram arshiaa.yp
+
+googleStore - https://github.com/ZziAx/web_templates im working and updating on a dj app for 3 years
+
+github https://github.com/ZziAx/poplular_apps_widgets
+github https://github.com/ZziAx/flutter_tenet_kit
+github https://github.com/ZziAx/tenet_finance
+github https://github.com/ZziAx/Zien: text render and layout engine in c/c++/rust
+github https://github.com/ZziAx/web_templates: react/nodeJs tecno life and dgkala and crm template 
